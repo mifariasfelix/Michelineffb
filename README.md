@@ -15,7 +15,7 @@ Atualmente tenho desenvolvo projetos com as tecnologias:
 - CSS;
 - JavaScript;
 - React.
-- 
+
 
 Nos módulos de Front End também fiz uso de:
 
@@ -24,8 +24,8 @@ Nos módulos de Front End também fiz uso de:
 - Styled-Components;
 - Router;
 - Design Systems:
--   Material UI;
--   Chakra UI
+  -  Material UI;
+  -  Chakra UI
 
 #### E nessa estrada infinita do saber eu continuo andando, rumo ao conhecimento! 🚶🏻‍♀️
 
