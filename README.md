@@ -1,16 +1,30 @@
-### Hi there 👋
+### Olá 👋
 
-<!--
-**Michelineffb/Michelineffb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Micheline Barros. Sou de Fortaleza Ceará e estou estudando 
+Desenvolvimento Web Full Stack na Labenu, a escola do meu 🧡.
 
-Here are some ideas to get you started:
+Amo essa área da programação, pois questões que tiram meu sono me instigam 🤔🤯.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+####  "Quanto mais eu sei, mais eu sou"   💪🏻🧠
+
+Esse Git contém alguns dos trabalhos desenvolvidos no curso. Por mim 🙋🏻‍♀️ e em grupo.
+
+Atualmente tenho desenvolvo projetos com as tecnologias:
+
+-HTML;
+-CSS;
+-JavaScript;
+-React.
+
+Nos módulos de Front End também fiz uso de:
+
+-API Rest;
+-Hooks;
+-Styled-Components;
+-Router;
+-Design Systems:
+- Material UI;
+- Chakra UI
+
+#### E nessa estrada infinita do saber eu continuo andando, rumo ao conhecimento! 🚶🏻‍♀️
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/micheline-farias-felix-barros-b1832a214/)](https://www.linkedin.com/in/micheline-farias-felix-barros-b1832a214/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mffbarr_os/)](https://www.instagram.com/mffbarr_os/) 
