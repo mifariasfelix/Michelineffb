@@ -11,27 +11,21 @@ Esse Git contém alguns dos trabalhos desenvolvidos por mim 🙋🏻‍♀️ e 
 
 Atualmente tenho desenvolvo projetos com as tecnologias:
 
--HTML;
-
--CSS;
-
--JavaScript;
-
--React.
+- HTML;
+- CSS;
+- JavaScript;
+- React.
+- 
 
 Nos módulos de Front End também fiz uso de:
 
--API Rest;
-
--Hooks;
-
--Styled-Components;
-
--Router;
-
--Design Systems:
-- Material UI;
-- Chakra UI
+- API Rest;
+- Hooks;
+- Styled-Components;
+- Router;
+- Design Systems:
+-   Material UI;
+-   Chakra UI
 
 #### E nessa estrada infinita do saber eu continuo andando, rumo ao conhecimento! 🚶🏻‍♀️
 
