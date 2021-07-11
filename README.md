@@ -29,4 +29,5 @@ Nos módulos de Front End também fiz uso de:
 #### E nessa estrada infinita do saber eu continuo andando, rumo ao conhecimento! 🚶🏻‍♀️
 
 Minhas redes sociais 👇🏻
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/micheline-farias-felix-barros-b1832a214/)](https://www.linkedin.com/in/micheline-farias-felix-barros-b1832a214/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mffbarr_os/)](https://www.instagram.com/mffbarr_os/) 
