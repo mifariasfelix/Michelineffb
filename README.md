@@ -1,6 +1,6 @@
 ### Olá 👋
 
-Me chamo Micheline Barros. Sou de Fortaleza Ceará e estou estudando 
+Me chamo Micheline Barros. Sou Técnica em Eletrotécnica, Desenvolvedora Front End e estou estudando 
 Desenvolvimento Web Full Stack na Labenu, a escola do meu 🧡.
 
 Amo essa área da programação, pois questões que tiram meu sono me instigam 🤔🤯.
