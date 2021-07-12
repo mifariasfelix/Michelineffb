@@ -9,7 +9,7 @@ Amo essa área da programação, pois questões que tiram meu sono me instigam �
 
 Esse Git contém alguns dos trabalhos desenvolvidos por mim 🙋🏻‍♀️ e em grupo.
 
-Atualmente tenho desenvolvo projetos com as tecnologias:
+Atualmente tenho desenvolvido projetos com as tecnologias:
 
 - HTML;
 - CSS;
