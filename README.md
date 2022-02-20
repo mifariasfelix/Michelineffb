@@ -1,7 +1,6 @@
 ### Olá 👋
 
-Me chamo Micheline Barros. Sou Técnica em Eletrotécnica, Desenvolvedora Front End e estou estudando 
-Desenvolvimento Web Full Stack na Labenu, a escola do meu 🧡.
+Me chamo Micheline Barros. No ano de 2021 fiz um bootcamp na @Labenu_ e agora faço ADS na Estácio. Esse ano entrei na Sensedia🧡 como estagiária da área de consultoria.
 
 Amo essa área da programação, pois questões que tiram meu sono me instigam 🤔🤯.
 
@@ -9,23 +8,6 @@ Amo essa área da programação, pois questões que tiram meu sono me instigam �
 
 Esse Git contém alguns dos trabalhos desenvolvidos por mim 🙋🏻‍♀️ e em grupo.
 
-Atualmente tenho desenvolvido projetos com as tecnologias:
-
-- HTML;
-- CSS;
-- JavaScript;
-- React.
-
-
-Nos módulos de Front End também fiz uso de:
-
-- API Rest;
-- Hooks;
-- Styled-Components;
-- Router;
-- Design Systems:
-  -  Material UI;
-  -  Chakra UI
 
 #### E nessa estrada infinita do saber eu continuo andando, rumo ao conhecimento! 🚶🏻‍♀️
 
