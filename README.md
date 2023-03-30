@@ -1,6 +1,6 @@
 ### Olá 👋
 
-Me chamo Micheline Barros. No ano de 2021 fiz um bootcamp na @Labenu_ e agora faço ADS na Estácio. Esse ano entrei na Sensedia🧡 como estagiária da área de consultoria.
+Me chamo Micheline Felix. No ano de 2021 fiz um bootcamp na @Labenu_ e agora faço ADS na Estácio. Esse ano entrei na Sensedia🧡 como estagiária da área de consultoria.
 
 Amo essa área da programação, pois questões que tiram meu sono me instigam 🤔🤯.
 
